@@ -131,5 +131,7 @@ If user asks for live-mode operation, require explicit confirmation and explain 
 ## References
 
 - `references/workflows.md` - production-grade Stripe CLI workflows
+- `references/webhooks.md` - webhook lifecycle: setup, test, replay, hardening
+- `references/products-prices-customers.md` - product catalog, price lifecycle, customer ops, subscription price changes
 - `references/commands.md` - high-value command cheatsheet
 - `references/security.md` - security and compliance checklist for community use

@@ -26,6 +26,8 @@ Use this skill when you need to:
 
 - `SKILL.md` — trigger + operational instructions for agents
 - `references/workflows.md` — practical end-to-end workflows
+- `references/webhooks.md` — setup/testing/replay and webhook maintenance
+- `references/products-prices-customers.md` — product/price/customer lifecycle + subscription price changes
 - `references/commands.md` — high-value command reference
 - `references/security.md` — security checklist
 - `scripts/stripe-dev-listen.sh` — safer local listener wrapper
